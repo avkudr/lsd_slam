@@ -1,3 +1,13 @@
+### Fork of LSD-SLAM
+
+Comments:
+- works in Ubuntu 16.04 with OpenCV 3.4
+- max usable version of Eigen is 3.2.10 (compatibility issues with Sophus)
+
+TO DO:
+- at first, refactoring
+
+
 # LSD-SLAM: Large-Scale Direct Monocular SLAM
 
 LSD-SLAM is a novel approach to real-time monocular SLAM. It is fully direct (i.e. does not use keypoints / features) and creates large-scale, 
