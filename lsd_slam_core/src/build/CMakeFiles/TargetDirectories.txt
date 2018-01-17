@@ -1,0 +1,4 @@
+/home/andrey.kudryavtsev/Documents/Projects/lsd_slam/lsd_slam_core/src/build/CMakeFiles/rebuild_cache.dir
+/home/andrey.kudryavtsev/Documents/Projects/lsd_slam/lsd_slam_core/src/build/CMakeFiles/LSD.dir
+/home/andrey.kudryavtsev/Documents/Projects/lsd_slam/lsd_slam_core/src/build/CMakeFiles/edit_cache.dir
+/home/andrey.kudryavtsev/Documents/Projects/lsd_slam/lsd_slam_core/src/build/CMakeFiles/lsdslam.dir

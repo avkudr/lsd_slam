@@ -70,7 +70,7 @@ std::vector<TrackableKFStruct> TrackableKeyFrameSearch::findEuclideanOverlapFram
 		distFacReciprocal = frame->meanIdepth / frame->getScaledCamToWorld().scale();
 
 	// for each frame, calculate the rough score, consisting of pose, scale and angle overlap.
-	graph->keyframesAllMutex.lock_shared();
+    graph->keyframesAllMutex.lock_shared();
 	for(unsigned int i=0;i<graph->keyframesAll.size();i++)
 	{
 		Eigen::Vector3d otherPos = graph->keyframesAll[i]->getScaledCamToWorld().translation();
