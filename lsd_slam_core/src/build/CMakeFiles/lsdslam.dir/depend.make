@@ -38,6 +38,7 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -69,6 +70,7 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -119,6 +121,7 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -161,6 +164,8 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -168,6 +173,7 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -298,6 +304,7 @@ CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/Frame.cpp.o: /usr/local/include/g2o/config.h
@@ -497,6 +504,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -528,6 +536,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -578,6 +587,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -620,6 +630,8 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -627,6 +639,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -757,6 +770,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FrameMemory.cpp.o: /usr/local/include/g2o/config.h
@@ -825,6 +839,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -856,6 +871,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -906,6 +922,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -948,6 +965,8 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -955,6 +974,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -1085,6 +1105,7 @@ CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/DataStructures/FramePoseStruct.cpp.o: /usr/local/include/g2o/config.h
@@ -1162,6 +1183,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -1193,6 +1215,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -1243,6 +1266,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -1285,6 +1309,8 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -1292,6 +1318,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -1422,6 +1449,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMap.cpp.o: /usr/local/include/g2o/config.h
@@ -1632,6 +1660,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -1663,6 +1692,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -1713,6 +1743,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -1755,6 +1786,8 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -1762,6 +1795,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -1892,6 +1926,7 @@ CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/DepthEstimation/DepthMapPixelHypothesis.cpp.o: /usr/local/include/g2o/config.h
@@ -2169,6 +2204,7 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/StdVector
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -2200,6 +2236,7 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Gener
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -2250,6 +2287,7 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -2292,6 +2330,8 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -2299,6 +2339,7 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -2429,6 +2470,7 @@ CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/Ar
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/GUI.cpp.o: /usr/local/include/g2o/config.h
@@ -2498,6 +2540,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -2529,6 +2572,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -2579,6 +2623,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -2621,6 +2666,8 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -2628,6 +2675,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -2758,6 +2806,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/FabMap.cpp.o: /usr/local/include/g2o/config.h
@@ -2965,6 +3014,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -2996,6 +3046,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -3046,6 +3097,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -3088,6 +3140,8 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -3095,6 +3149,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -3225,6 +3280,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eig
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/KeyFrameGraph.cpp.o: /usr/local/include/g2o/config.h
@@ -3463,6 +3519,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -3494,6 +3551,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -3544,6 +3602,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -3586,6 +3645,8 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -3593,6 +3654,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -3723,6 +3785,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/i
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/TrackableKeyFrameSearch.cpp.o: /usr/local/include/g2o/config.h
@@ -3925,6 +3988,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -3956,6 +4020,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -4006,6 +4071,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -4048,6 +4114,8 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -4055,6 +4123,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -4185,6 +4254,7 @@ CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/GlobalMapping/g2oTypeSim3Sophus.cpp.o: /usr/local/include/g2o/config.h
@@ -4466,6 +4536,7 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -4497,6 +4568,7 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -4547,6 +4619,7 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -4589,6 +4662,8 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -4596,6 +4671,7 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -4726,6 +4802,7 @@ CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/lo
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/IOWrapper/Pangolin/PangolinOutput3DWrapper.cpp.o: /usr/local/include/g2o/config.h
@@ -4809,6 +4886,7 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/Sp
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -4840,6 +4918,7 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -4890,6 +4969,7 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -4932,6 +5012,8 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -4939,6 +5021,7 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -5067,6 +5150,7 @@ CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/LiveSLAMWrapper.cpp.o: /usr/local/include/opencv/cxcore.h
@@ -5255,6 +5339,7 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/StdVect
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -5286,6 +5371,7 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cor
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -5336,6 +5422,7 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cor
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -5378,6 +5465,8 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cor
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -5385,6 +5474,7 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Cor
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -5515,6 +5605,7 @@ CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plu
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/SlamSystem.cpp.o: /usr/local/include/g2o/config.h
@@ -5728,6 +5819,7 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -5759,6 +5851,7 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -5809,6 +5902,7 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -5851,6 +5945,8 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -5858,6 +5954,7 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -5988,6 +6085,7 @@ CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Relocalizer.cpp.o: /usr/local/include/g2o/config.h
@@ -6196,6 +6294,7 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -6227,6 +6326,7 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -6277,6 +6377,7 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -6319,6 +6420,8 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -6326,6 +6429,7 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -6456,6 +6560,7 @@ CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eige
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/SE3Tracker.cpp.o: /usr/local/include/g2o/config.h
@@ -6665,6 +6770,7 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -6696,6 +6802,7 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -6746,6 +6853,7 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -6788,6 +6896,8 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -6795,6 +6905,7 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -6925,6 +7036,7 @@ CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eig
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/Sim3Tracker.cpp.o: /usr/local/include/g2o/config.h
@@ -7134,6 +7246,7 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -7165,6 +7278,7 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -7215,6 +7329,7 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -7257,6 +7372,8 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -7264,6 +7381,7 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -7394,6 +7512,7 @@ CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eige
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/TrackingReference.cpp.o: /usr/local/include/g2o/config.h
@@ -7582,6 +7701,7 @@ CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/E
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -7613,6 +7733,7 @@ CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/E
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -7663,6 +7784,7 @@ CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/E
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -7705,12 +7827,15 @@ CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/E
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Meta.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -7778,6 +7903,7 @@ CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/E
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/Tracking/least_squares.cpp.o: /usr/local/include/opencv/cxcore.h
@@ -8074,6 +8200,7 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/Sp
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -8105,6 +8232,7 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -8155,6 +8283,7 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -8197,6 +8326,8 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -8204,6 +8335,7 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -8332,6 +8464,7 @@ CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/sr
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/util/SophusUtil.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
@@ -8509,6 +8642,7 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/S
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -8540,6 +8674,7 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/s
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -8590,6 +8725,7 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/s
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -8632,6 +8768,8 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/s
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -8639,6 +8777,7 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/s
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -8769,6 +8908,7 @@ CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/s
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/lsdslam.dir/util/globalFuncs.cpp.o: /usr/local/include/g2o/config.h

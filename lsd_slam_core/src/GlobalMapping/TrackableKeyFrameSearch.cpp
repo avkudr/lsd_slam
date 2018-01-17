@@ -59,7 +59,6 @@ std::vector<TrackableKFStruct> TrackableKeyFrameSearch::findEuclideanOverlapFram
 	// e.g. if the FoV is 130°, then it is angleTH*130°.
 	float cosAngleTH = cosf(angleTH*0.5f*(fowX + fowY));
 
-
 	Eigen::Vector3d pos = frame->getScaledCamToWorld().translation();
 	Eigen::Vector3d viewingDir = frame->getScaledCamToWorld().rotationMatrix().rightCols<1>();
 
@@ -71,6 +70,7 @@ std::vector<TrackableKFStruct> TrackableKeyFrameSearch::findEuclideanOverlapFram
 
 	// for each frame, calculate the rough score, consisting of pose, scale and angle overlap.
     graph->keyframesAllMutex.lock_shared();
+
 	for(unsigned int i=0;i<graph->keyframesAll.size();i++)
 	{
 		Eigen::Vector3d otherPos = graph->keyframesAll[i]->getScaledCamToWorld().translation();
@@ -88,7 +88,8 @@ std::vector<TrackableKFStruct> TrackableKeyFrameSearch::findEuclideanOverlapFram
 
 		potentialReferenceFrames.push_back(TrackableKFStruct());
 		potentialReferenceFrames.back().ref = graph->keyframesAll[i];
-		potentialReferenceFrames.back().refToFrame = se3FromSim3(graph->keyframesAll[i]->getScaledCamToWorld().inverse() * frame->getScaledCamToWorld()).inverse();
+		SE3 zzz = se3FromSim3(graph->keyframesAll[i]->getScaledCamToWorld().inverse() * frame->getScaledCamToWorld()).inverse();
+		potentialReferenceFrames.back().refToFrame = zzz;
 		potentialReferenceFrames.back().dist = dNorm2;
 		potentialReferenceFrames.back().angle = dirDotProd;
 	}

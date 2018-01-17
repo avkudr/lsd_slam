@@ -119,6 +119,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/StdVector
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Array.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -150,6 +151,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GeneralPr
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IO.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/Map.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -200,6 +202,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -242,6 +245,8 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Blas
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -249,6 +254,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/Meta
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -379,6 +385,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/ArrayC
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 CMakeFiles/LSD.dir/LSD.cpp.o: /usr/local/include/g2o/config.h

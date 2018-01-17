@@ -1697,12 +1697,16 @@ SuiteSparse_config.h
 /usr/local/include/eigen3/Eigen/Cholesky
 Core
 /usr/local/include/eigen3/Eigen/Core
+Jacobi
+/usr/local/include/eigen3/Eigen/Jacobi
 src/Core/util/DisableStupidWarnings.h
 /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 src/Cholesky/LLT.h
 /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
 src/Cholesky/LDLT.h
 /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
+mkl_lapacke.h
+/usr/local/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/local/include/eigen3/Eigen/src/misc/lapacke.h
 src/Cholesky/LLT_LAPACKE.h
@@ -1713,7 +1717,7 @@ src/Core/util/ReenableStupidWarnings.h
 /usr/local/include/eigen3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
 /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
-math_functions.hpp
+cuda_runtime.h
 -
 new
 -
@@ -1789,6 +1793,8 @@ iostream
 -
 intrin.h
 -
+SYCL/sycl.hpp
+-
 src/Core/util/Constants.h
 /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
 src/Core/util/Meta.h
@@ -1801,6 +1807,10 @@ src/Core/util/XprHelper.h
 /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 src/Core/util/Memory.h
 /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
+src/Core/util/IntegralConstant.h
+/usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
+src/Core/util/SymbolicIndex.h
+/usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 src/Core/NumTraits.h
 /usr/local/include/eigen3/Eigen/src/Core/NumTraits.h
 src/Core/MathFunctions.h
@@ -1809,12 +1819,18 @@ src/Core/GenericPacketMath.h
 /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
 src/Core/MathFunctionsImpl.h
 /usr/local/include/eigen3/Eigen/src/Core/MathFunctionsImpl.h
+src/Core/arch/Default/ConjHelper.h
+/usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
 src/Core/arch/SSE/PacketMath.h
 /usr/local/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h
 src/Core/arch/AVX/PacketMath.h
 /usr/local/include/eigen3/Eigen/src/Core/arch/AVX/PacketMath.h
 src/Core/arch/AVX512/PacketMath.h
 /usr/local/include/eigen3/Eigen/src/Core/arch/AVX512/PacketMath.h
+src/Core/arch/SSE/MathFunctions.h
+/usr/local/include/eigen3/Eigen/src/Core/arch/SSE/MathFunctions.h
+src/Core/arch/AVX/MathFunctions.h
+/usr/local/include/eigen3/Eigen/src/Core/arch/AVX/MathFunctions.h
 src/Core/arch/AVX512/MathFunctions.h
 /usr/local/include/eigen3/Eigen/src/Core/arch/AVX512/MathFunctions.h
 src/Core/arch/SSE/PacketMath.h
@@ -1883,6 +1899,10 @@ src/Core/functors/AssignmentFunctors.h
 /usr/local/include/eigen3/Eigen/src/Core/functors/AssignmentFunctors.h
 src/Core/arch/CUDA/Complex.h
 /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/Complex.h
+src/Core/util/IndexedViewHelper.h
+/usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+src/Core/ArithmeticSequence.h
+/usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
 src/Core/IO.h
 /usr/local/include/eigen3/Eigen/src/Core/IO.h
 src/Core/DenseCoeffsBase.h
@@ -1947,6 +1967,8 @@ src/Core/Block.h
 /usr/local/include/eigen3/Eigen/src/Core/Block.h
 src/Core/VectorBlock.h
 /usr/local/include/eigen3/Eigen/src/Core/VectorBlock.h
+src/Core/IndexedView.h
+/usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
 src/Core/Transpose.h
 /usr/local/include/eigen3/Eigen/src/Core/Transpose.h
 src/Core/DiagonalMatrix.h
@@ -2115,6 +2137,8 @@ src/Eigenvalues/GeneralizedEigenSolver.h
 /usr/local/include/eigen3/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
 src/Eigenvalues/MatrixBaseEigenvalues.h
 /usr/local/include/eigen3/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+mkl_lapacke.h
+/usr/local/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/local/include/eigen3/Eigen/src/misc/lapacke.h
 src/Eigenvalues/RealSchur_LAPACKE.h
@@ -2235,6 +2259,8 @@ src/LU/FullPivLU.h
 /usr/local/include/eigen3/Eigen/src/LU/FullPivLU.h
 src/LU/PartialPivLU.h
 /usr/local/include/eigen3/Eigen/src/LU/PartialPivLU.h
+mkl_lapacke.h
+/usr/local/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/local/include/eigen3/Eigen/src/misc/lapacke.h
 src/LU/PartialPivLU_LAPACKE.h
@@ -2279,6 +2305,8 @@ src/QR/ColPivHouseholderQR.h
 /usr/local/include/eigen3/Eigen/src/QR/ColPivHouseholderQR.h
 src/QR/CompleteOrthogonalDecomposition.h
 /usr/local/include/eigen3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
+mkl_lapacke.h
+/usr/local/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/local/include/eigen3/Eigen/src/misc/lapacke.h
 src/QR/HouseholderQR_LAPACKE.h
@@ -2307,6 +2335,8 @@ src/SVD/JacobiSVD.h
 /usr/local/include/eigen3/Eigen/src/SVD/JacobiSVD.h
 src/SVD/BDCSVD.h
 /usr/local/include/eigen3/Eigen/src/SVD/BDCSVD.h
+mkl_lapacke.h
+/usr/local/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/local/include/eigen3/Eigen/src/misc/lapacke.h
 src/SVD/JacobiSVD_LAPACKE.h
@@ -2492,11 +2522,11 @@ src/StlSupport/StdVector.h
 
 /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
 
+/usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
+
 /usr/local/include/eigen3/Eigen/src/Core/Array.h
 
 /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
-../plugins/CommonCwiseUnaryOps.h
-/usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 ../plugins/MatrixCwiseUnaryOps.h
 /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 ../plugins/ArrayCwiseUnaryOps.h
@@ -2541,8 +2571,12 @@ src/StlSupport/StdVector.h
 /usr/local/include/eigen3/Eigen/src/Core/CwiseUnaryView.h
 
 /usr/local/include/eigen3/Eigen/src/Core/DenseBase.h
+../plugins/CommonCwiseUnaryOps.h
+/usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 ../plugins/BlockMethods.h
 /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
+../plugins/IndexedViewMethods.h
+/usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 
 /usr/local/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h
 
@@ -2568,6 +2602,8 @@ src/StlSupport/StdVector.h
 
 /usr/local/include/eigen3/Eigen/src/Core/IO.h
 
+/usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
+
 /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
 
 /usr/local/include/eigen3/Eigen/src/Core/Map.h
@@ -2581,8 +2617,6 @@ src/StlSupport/StdVector.h
 /usr/local/include/eigen3/Eigen/src/Core/Matrix.h
 
 /usr/local/include/eigen3/Eigen/src/Core/MatrixBase.h
-../plugins/CommonCwiseUnaryOps.h
-/usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 ../plugins/CommonCwiseBinaryOps.h
 /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 ../plugins/MatrixCwiseUnaryOps.h
@@ -2676,6 +2710,8 @@ src/StlSupport/StdVector.h
 
 /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
 
+/usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
+
 /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
 
 /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
@@ -2762,6 +2798,10 @@ stdint.h
 
 /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
 
+/usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+
+/usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
+
 /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
 mkl.h
 -
@@ -2789,6 +2829,8 @@ cstdint
 /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
 /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+
+/usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
 
 /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
 
@@ -3099,6 +3141,10 @@ lapacke_mangling.h
 /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 
 /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+
+/usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
+IndexedViewMethods.h
+/usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
 
 /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 

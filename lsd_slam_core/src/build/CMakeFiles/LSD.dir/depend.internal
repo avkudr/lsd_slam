@@ -120,6 +120,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/Cholesky/LDLT.h
  /usr/local/include/eigen3/Eigen/src/Cholesky/LLT.h
  /usr/local/include/eigen3/Eigen/src/Cholesky/LLT_LAPACKE.h
+ /usr/local/include/eigen3/Eigen/src/Core/ArithmeticSequence.h
  /usr/local/include/eigen3/Eigen/src/Core/Array.h
  /usr/local/include/eigen3/Eigen/src/Core/ArrayBase.h
  /usr/local/include/eigen3/Eigen/src/Core/ArrayWrapper.h
@@ -151,6 +152,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/Core/GenericPacketMath.h
  /usr/local/include/eigen3/Eigen/src/Core/GlobalFunctions.h
  /usr/local/include/eigen3/Eigen/src/Core/IO.h
+ /usr/local/include/eigen3/Eigen/src/Core/IndexedView.h
  /usr/local/include/eigen3/Eigen/src/Core/Inverse.h
  /usr/local/include/eigen3/Eigen/src/Core/Map.h
  /usr/local/include/eigen3/Eigen/src/Core/MapBase.h
@@ -201,6 +203,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMath.h
  /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
  /usr/local/include/eigen3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+ /usr/local/include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h
  /usr/local/include/eigen3/Eigen/src/Core/arch/Default/Settings.h
  /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/Complex.h
  /usr/local/include/eigen3/Eigen/src/Core/arch/NEON/MathFunctions.h
@@ -243,6 +246,8 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/Core/util/Constants.h
  /usr/local/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
  /usr/local/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h
+ /usr/local/include/eigen3/Eigen/src/Core/util/IndexedViewHelper.h
+ /usr/local/include/eigen3/Eigen/src/Core/util/IntegralConstant.h
  /usr/local/include/eigen3/Eigen/src/Core/util/MKL_support.h
  /usr/local/include/eigen3/Eigen/src/Core/util/Macros.h
  /usr/local/include/eigen3/Eigen/src/Core/util/Memory.h
@@ -250,6 +255,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/Core/util/NonMPL2.h
  /usr/local/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h
  /usr/local/include/eigen3/Eigen/src/Core/util/StaticAssert.h
+ /usr/local/include/eigen3/Eigen/src/Core/util/SymbolicIndex.h
  /usr/local/include/eigen3/Eigen/src/Core/util/XprHelper.h
  /usr/local/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
  /usr/local/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
@@ -380,6 +386,7 @@ CMakeFiles/LSD.dir/LSD.cpp.o
  /usr/local/include/eigen3/Eigen/src/plugins/BlockMethods.h
  /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h
  /usr/local/include/eigen3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+ /usr/local/include/eigen3/Eigen/src/plugins/IndexedViewMethods.h
  /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/local/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
  /usr/local/include/g2o/config.h

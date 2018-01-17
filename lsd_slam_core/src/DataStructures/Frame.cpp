@@ -513,7 +513,9 @@ void Frame::buildImage(int level)
 		data.image[level] = FrameMemory::getInstance().getFloatBuffer(data.width[level] * data.height[level]);
 	float* dest = data.image[level];
 
+	std::cout << "Andrey debug test\n";
 #if defined(ENABLE_SSE)
+
 	// I assume all all subsampled width's are a multiple of 8.
 	// if this is not the case, this still works except for the last * pixel, which will produce a segfault.
 	// in that case, reduce this loop and calculate the last 0-3 dest pixels by hand....
