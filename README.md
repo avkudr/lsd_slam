@@ -1,11 +1,15 @@
-### Fork of LSD-SLAM
+### My Fork of LSD-SLAM
 
 Comments:
 - works in Ubuntu 16.04 with OpenCV 3.4
 - max usable version of Eigen is 3.2.10 (compatibility issues with Sophus)
+- g2o should be installed after eigen and with the following options: 
+```cpp
+-DCMAKE_BUILD_TYPE:string=Release -DBUILD_CSPARSE:bool=OFF
+```
 
 TO DO:
-- at first, refactoring
+- at first, refactoring. I encourage you to not fork this repo before that :)
 
 
 # LSD-SLAM: Large-Scale Direct Monocular SLAM
